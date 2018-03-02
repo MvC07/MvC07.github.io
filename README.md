@@ -9,8 +9,8 @@ cd MvC07.github.io
 2. run local server
 ```
 python -m http.server
-Go to http://localhost:8000/
 ```
+Go to http://localhost:8000/
 
 3. push live to web
 ```
