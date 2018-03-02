@@ -1,5 +1,6 @@
 .img-circle {
-    border-radius: 0%;
+    border-radius: 100%;
+    box-shadow: 0px 0px 25px 10px rgb(185, 185, 185);
 }
 
 .image { 
@@ -16,11 +17,11 @@
 
  h1 span { 
     color: white; 
-    font: bold 45px/45px cursive;
+    font: bold 55px/45px cursive;
     letter-spacing: -1px;  
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
-    padding: 10px; 
+    padding: 8px; 
  }
 
  h3 span { 
@@ -29,7 +30,7 @@
     letter-spacing: -1px;  
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
-    padding: 10px; 
+    padding: 8px; 
  }
 
  p span { 
@@ -73,46 +74,44 @@
 
  .profile { 
     position: absolute; 
-    top: 90px; 
-    text-align: center; 
+    top: 120px; 
     width: 100%; 
     display: block;
+    left: 25px;
  }
 
  h4 span { 
-    color: white; 
-    font: bold 40px/45px cursive;
+    color: rgb(10, 10, 10); 
+    font: bold 30px/5px cursive;
     letter-spacing: -1px;  
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px; 
+    padding: 5px; 
  }
 
  h5 span { 
-    color: white; 
-    font: bold 15px/45px cursive;
+    color: rgb(75, 72, 72); 
+    font: bold 15px/1px cursive;
     letter-spacing: -1px;  
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px; 
+    padding: 5px; 
  }
 
 h6 span { 
-    color: white; 
-    font: bold 15px/45px cursive;
+    color: rgb(8, 8, 8); 
+    font: bold 15px/1px cursive;
     letter-spacing: -1px;  
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px; 
+    padding: 5px; 
+    text-align: right;
 }
 
 ul { 
-    color: white; 
-    font: bold 15px/20px cursive;
+    color: rgb(12, 12, 12); 
+    font: 15px/20px cursive;
     letter-spacing: -1px;  
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px; 
+    padding: 1px; 
 }
 
-
+h7 span {
+    color: rgb(10, 10, 10); 
+    font: bold 25px/10px cursive;
+    letter-spacing: -1px;  
+    padding:-15px; 
+}
