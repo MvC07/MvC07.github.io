@@ -32,7 +32,7 @@ class Navbar extends Component {
 
           <Col xxl={12} xl={12} lg={12} md={12} sm={12} xs={0}>
           <div class="navbar">
-            <h4><span><a class="buttons" href="./aboutme">About Me</a>   <a class="buttons" href="./contact">Contact</a></span></h4>
+            <h4><span><Link to={'/aboutme'}><a class="buttons">About Me</a></Link>   <Link to={'/aboutme'}><a class="buttons">Contact</a></Link></span></h4>
           </div>    
           </Col>
 
