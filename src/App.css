@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+
+.App-header {
+  background-color: rgb(12, 0, 55, 100);
+  height: 120px;
+  padding: 0px;
+}
+
+.Content {
+  background-image: url("/Artboard.png");
+  background-position: right top;
+  min-height: 1000px;
+}
+
+.App-footer {
+  background-color: rgb(12, 0, 55, 100);
+}
+

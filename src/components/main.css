@@ -1,0 +1,56 @@
+.headline {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-top: 350px;
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.headline5 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-top: 300px;
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.headline1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-top: 100px;
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.headline2 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    width: 470px;
+    height: 85px;
+}
+
+.headline3 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-bottom: 80px;
+}
+
+
+.contacticon {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p {
+    font-size: 14px;
+  }
+
+.box {
+    width: 380px;
+    padding: 20px;
+    padding-bottom: 80px;
+}
